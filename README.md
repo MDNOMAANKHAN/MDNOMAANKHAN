@@ -14,34 +14,18 @@
 
 🙋‍♂️ About Me
 
-I'm a Computer Science and Engineering graduate passionate about Cloud Computing, AWS Infrastructure, Linux Systems, Networking, and DevOps Technologies.
+I'm a Computer Science and Engineering graduate with an academic focus on Cyber Security, and a strong passion for Cloud Computing, AWS Infrastructure, Linux Systems, Networking, and DevOps Technologies.
 
-I enjoy exploring cloud infrastructure, understanding networking, working with operating systems, and developing practical technology solutions.
+Although my academic background is in Cyber Security, I've developed a strong interest in Cloud Computing and enjoy exploring AWS services, cloud infrastructure, Linux administration, and networking.
 
-My goal is to build strong technical skills through hands-on projects and grow into a professional Cloud Engineer.
+I'm focused on gaining practical experience through hands-on projects and continuously developing my skills to build a career in Cloud Engineering and Cloud Support.
 
-- 🎓 B.Tech in Computer Science and Engineering
-- 🏫 Marri Laxman Reddy Institute of Technology and Management
-- 📅 Graduation Year: 2026
-- 📊 CGPA: 8.20
-- ☁️ Interested in AWS and Cloud Infrastructure
-- 🐧 Learning Linux and Ubuntu Administration
-- 🌐 Exploring Computer Networking and Cloud Security
-- 🚀 Exploring DevOps and Multi-Cloud Technologies
-- 💻 Building practical applications and cloud projects
+- 🎓 B.Tech in Computer Science and Engineering – Cyber Security
+- ☁️ Primary Interest: Cloud Computing and AWS
+- 🐧 Exploring Linux and Ubuntu Administration
+- 🌐 Interested in Networking and Cloud Security
+- 🚀 Learning DevOps and Multi-Cloud Technologies
 - 🎯 Career Goal: Cloud Engineer / Cloud Support Engineer
-
----
-
-🎓 Education
-
-Bachelor of Technology – Computer Science and Engineering
-
-Details| Information
-Institution| Marri Laxman Reddy Institute of Technology and Management
-University| JNTU Affiliated
-Graduation| 2026
-CGPA| 8.20
 
 ---
 
