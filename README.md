@@ -230,7 +230,7 @@ Technologies: AWS Lambda · Amazon DynamoDB · API Gateway
 
 💡 My Goal
 
-«"Learn continuously, build practical projects, solve real-world problems, and grow in the world of Cloud Computing and DevOps."»
+Learn continuously, build practical projects, solve real-world problems, and grow in the world of Cloud Computing and DevOps.
 
 I'm continuously improving my technical knowledge through hands-on projects, practical experiments, and learning new technologies.
 
